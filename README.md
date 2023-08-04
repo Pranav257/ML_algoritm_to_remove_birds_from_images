@@ -1,0 +1,1 @@
+# ML_algoritm_to_remove_birds_from_images
