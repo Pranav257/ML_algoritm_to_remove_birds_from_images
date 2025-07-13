@@ -1,4 +1,4 @@
-# ML_algoritm_to_remove_birds_from_images
+# Image Manipulation with Stable Diffusion: Advanced Inpainting Technique
 
 
 Tools Used
